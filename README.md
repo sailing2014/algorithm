@@ -1,5 +1,5 @@
 # algorithm
 
-simple exaples from xiaohuihui
+simple examples from xiaohuihui
 
 
