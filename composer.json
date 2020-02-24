@@ -1,0 +1,10 @@
+{
+    "name": "vagrant/algorithm",
+    "description": "simple examples",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Linkedlist\\": "linkedlist"
+        }
+    }
+}
