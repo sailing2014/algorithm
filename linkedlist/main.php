@@ -4,8 +4,6 @@ namespace Linkedlist;
 
 require_once '../vendor/autoload.php';
 
-
-
 /**
  * 判断链表保存的字符串是否是回文
  * @param SingleLinkedList $list
