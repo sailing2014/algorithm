@@ -28,7 +28,7 @@ namespace Linkedlist;
 
  *
 
- * @package Algo_06
+ * @package LinkedList
 
  */
 
